@@ -1,0 +1,27 @@
+------------------------------------
+2005年 “互联网2.0” 热站点
+背景说明：
+2005年,“互联网2.0”受到广泛的关注，频繁成为新闻焦点、热点，为媒体、投资、技术等青睐。以博客为典型应用的互联网2.0服务快速融入网民生活，提供互联网2.0的网站如雨后春笋般纷纷涌现。
+随意摘的几个博客站点分享﹕
+BSP 博客网 http://www.bokee.com
+BSP 中国博客网 http://www.blogcn.com
+BSP 天涯博客 http://www2.tianyablog.com
+BSP 博客天下 http://www.blog.com.cn
+BSP 博客之家 http://www.blogerhome.com
+RSS 博阅 http://www.boyue.com
+wiki 维库 http://www.wikilib.com
+播客 土豆 http://www.toodou.com
+播客 播客天下 http://www.imboke.com
+播客 中国播客网 http://www.vvlogger.com
+播客 菠萝网 http://www.podlook.com
+博客搜索 博搜 http://www.booso.com
+地图 E都市 http://www.edushi.com
+门户新服务 新浪 http://blog.sina.com.cn
+门户新服务 网易 http://blog.163.com
+门户新服务 QQ http://Qzone.qq.com
+门户新服务 Tom http://blog.tom.com
+社会书签 我摘 http://www.wozhai.com
+社区 天涯 http://www.tianya.cn
+社区 豆瓣 http://www.douban.com
+
+FROM : 小葉子 2005/12/30
