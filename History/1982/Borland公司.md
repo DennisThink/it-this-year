@@ -1,6 +1,6 @@
 # Borland公司简介
 
-[原文链接]([Borland](https://www.it-this-year.com/2020/04/21/137))
+[原文链接](https://www.it-this-year.com/2020/04/21/137)
 
 |项目|内容|
 |-----|-----|

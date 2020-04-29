@@ -1,5 +1,7 @@
 # Bilibili简介
 
+[原文链接](https://www.it-this-year.com/2020/04/23/270)
+
 |项目|内容|
 |-----|-----|
 |公司名称|哔哩哔哩（bilibili）|
